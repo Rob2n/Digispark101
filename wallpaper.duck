@@ -1,0 +1,6 @@
+DELAY 500
+CTRL-ALT t
+DELAY 700
+STRING gsettings set org.gnome.desktop.background picture-uri "https://is.gd/2Gkl2p"
+DELAY 100
+ENTER
