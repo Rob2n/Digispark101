@@ -25,7 +25,7 @@ Then convert the ducky script into a .bin payload by entering the following comm
 
 Next, use duck2spark to turn your .bin payload into an arduino sketch, by issuing this command : 
 
-`python duck2spark.py -i wallpaper.bin -l 1 -o wallpaper.ino`
+`python duck2spark.py -i myscript.bin -l 1 -o myscript.ino`
 
 ---
 
